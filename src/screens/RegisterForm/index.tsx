@@ -1,9 +1,11 @@
-import React from "react";
+import { Form } from "../../components/organism";
+import { RightSideComponent } from "../../components/organism/RightSideComponent";
 
 export const RegisterForm = () => {
   return (
-    <div>
-      <h1>form</h1>
+    <div className="grid grid-cols-2">
+      <Form />
+      <RightSideComponent />
     </div>
   );
 };
