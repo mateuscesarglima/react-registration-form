@@ -1,3 +1,7 @@
 export const RightSideComponent = () => {
-  return <div className="h-screen bg-surface-secondary"></div>;
+  return (
+    <div className="bg-surface-secondary">
+      <h1></h1>
+    </div>
+  );
 };
