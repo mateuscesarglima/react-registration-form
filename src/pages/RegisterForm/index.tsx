@@ -1,5 +1,4 @@
-import { Form } from "../../components/organism";
-import { RightSideComponent } from "../../components/organism/RightSideComponent";
+import { Form, RightSideComponent } from "@Components/organism";
 
 export const RegisterForm = () => {
   return (

@@ -1,4 +1,4 @@
-import { RegisterForm } from "./screens";
+import { RegisterForm } from "./pages";
 
 function App() {
   return (
