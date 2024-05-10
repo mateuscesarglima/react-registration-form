@@ -1,7 +1,9 @@
+import { RegisterForm } from "./screens";
+
 function App() {
   return (
     <div>
-      <h1>Hello world teste</h1>
+      <RegisterForm />
     </div>
   );
 }
